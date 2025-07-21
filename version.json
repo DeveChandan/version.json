@@ -1,13 +1,13 @@
 {
   "versionCode": 2,
-  "versionName": "1.0.5",
-  "downloadUrl": "https://drive.google.com/uc?export=download&id=13K7SQkUNyUzgYmaKTWS-5PV5YjF-Puy6",
+  "versionName": "1.0.6",
+  "downloadUrl": "https://drive.google.com/uc?export=download&id=1hpyhxlnfFmmFgy_19pc2UyAFy-5sFLX-",
   "releaseNotes": "Production New features and improvements Updated.",
   "minSdkVersion": 21,
   "targetSdkVersion": 33,
   "requiredVersion": "1.0.0",
   "size": 76457280,
-  "updateDate": "2025-07-10 12:00:17",
+  "updateDate": "2025-07-21 12:00:17",
   "author": "DeveChandan",
   "checksum": "SHA256_CHECKSUM_OF_YOUR_APK"
 }
