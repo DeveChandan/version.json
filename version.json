@@ -10,4 +10,17 @@
   "updateDate": "2025-07-21 12:00:17",
   "author": "DeveChandan",
   "checksum": "SHA256_CHECKSUM_OF_YOUR_APK"
+},
+{
+  "versionCode": 2,
+  "versionName": "1.1.4",
+  "downloadUrl": "https://drive.google.com/uc?export=download&id=1yXatMYq8SodSzh6UQxJWt40l0tRdE9KY",
+  "releaseNotes": "Production New features and improvements Updated WMS&QR.",
+  "minSdkVersion": 21,
+  "targetSdkVersion": 33,
+  "requiredVersion": "1.0.0",
+  "size": 76457280,
+  "updateDate": "2025-07-21 12:00:17",
+  "author": "DeveChandan",
+  "checksum": "SHA256_CHECKSUM_OF_YOUR_APK"
 }
