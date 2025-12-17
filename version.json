@@ -1,13 +1,13 @@
 {
   "versionCode": 1,
-  "versionName": "1.1.9",
-  "downloadUrl": "https://github.com/DeveChandan/Monster/releases/download/release-8c6ca43007fef5fb0acdef417332e28f313efba2/app-release.apk",
+  "versionName": "1.2.0",
+  "downloadUrl": "https://github.com/DeveChandan/Monster/releases/download/release-af1d49efd834c20de7a4f7417c34b787d8768067/app-release.apk",
   "releaseNotes": "Production New features and improvements Updated WMS&QR And 10.255.20.7 Server mandatory .",
   "minSdkVersion": 21,
   "targetSdkVersion": 33,
   "requiredVersion": "1.0.0",
   "size": 76457280,
-  "updateDate": "2025-12-08 08:17:00",
+  "updateDate": "2025-12-17 11:11:28",
   "author": "DeveChandan",
   "checksum": "SHA256_CHECKSUM_OF_YOUR_APK"
 }
